@@ -31,8 +31,8 @@ const About = () => {
               <GiSkills className="about__icon" />
               <h5>Skills</h5>
               <small>
-                HTML, CSS, Javascipt, NodeJS, MongoDB, PostgreSql, AWS, Azure
-                Devops
+                HTML, CSS, Javascipt, Bootstrap, ReactJS, Angular, NodeJS,
+                MongoDB, PostgreSql, AWS, Azure Devops
               </small>
             </article>
 
